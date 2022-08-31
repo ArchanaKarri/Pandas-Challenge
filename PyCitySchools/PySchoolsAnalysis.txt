@@ -1,0 +1,8 @@
+Analysis: PySchools Data Analysis
+
+Based on the given data, I have noticed these 2 trends.
+
+1. When the data is sorted based on the size of the schools, 
+   I observed that Schools with less students perform better in all areas when compared to medium and large schools
+2. When the data is calculated based on the type of the schools,
+   I observed that Independent schools perform better than the Government schools.
